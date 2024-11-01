@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685089267 source:d:\c++\buoi2.9\buoi2.9.cpp
+	<vector>
+	<algorithm>
+	<cmath>
+	<ctime>
+	<algorithm>
+	<cstdio>
+

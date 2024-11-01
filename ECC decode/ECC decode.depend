@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1687874662 source:d:\c++\ecc decode\ecc decode.cpp
+	<iostream>
+	<string>
+	<cmath>
+

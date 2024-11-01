@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685005349 source:d:\c++\buoi2.5\buoi2.5.cpp
+	<iostream>
+	<ostream>
+	<math.h>
+	<iomanip>
+

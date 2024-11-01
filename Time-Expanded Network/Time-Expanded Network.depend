@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1686404429 source:d:\c++\time-expanded network\tinystr.cpp
+	"tinystr.h"
+
+1686404429 d:\c++\time-expanded network\tinystr.h
+	<assert.h>
+	<string.h>
+
+1686404429 source:d:\c++\time-expanded network\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1686404429 d:\c++\time-expanded network\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1686404430 source:d:\c++\time-expanded network\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1686404430 source:d:\c++\time-expanded network\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1686404430 source:d:\c++\time-expanded network\xmltest.cpp
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<crtdbg.h>
+	"tinyxml.h"
+
+1686405491 source:d:\c++\time-expanded network\time-expanded network.cpp
+	<iostream>
+	<string>
+	<vector>
+	<unordered_map>
+	"tinyxml2.h"
+
+1686405108 d:\c++\time-expanded network\tinyxml2.h
+	<ctype.h>
+	<limits.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<cctype>
+	<climits>
+	<cstdio>
+	<cstdlib>
+	<cstring>
+	<stdint.h>
+	<android/log.h>
+	<assert.h>
+
+1686405108 source:d:\c++\time-expanded network\tinyxml2.cpp
+	"tinyxml2.h"
+	<new>
+	<stddef.h>
+	<stdarg.h>
+	<cstddef>
+	<cstdarg>
+

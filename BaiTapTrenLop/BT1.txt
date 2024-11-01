@@ -1,0 +1,4 @@
+Mang da cho la: 5 3 12 7 
+Tong cac phan tu duong va chia het 3: 15
+Day sau khi sap xep: 3 5 7 12 
+Day sau khi xoa cac phan tu be hon x: 5 7 12 

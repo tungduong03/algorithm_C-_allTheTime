@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1686406450 source:d:\c++\time-expanded\time-expanded.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	<sstream>
+

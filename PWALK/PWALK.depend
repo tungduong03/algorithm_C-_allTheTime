@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1561626286 source:c:\users\hd\documents\c++\pwalk\pwalk.cpp
+	<bits/stdc++.h>
+
+1561626613 source:c:\users\hd\documents\c++\pwalk\pwalk_floyd.cpp
+	<bits/stdc++.h>
+
